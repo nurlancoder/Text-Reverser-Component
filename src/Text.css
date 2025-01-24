@@ -1,0 +1,39 @@
+.container {
+    width: 300px;
+    margin: 50px auto;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border: 2px solid #00a86b;
+    border-radius: 8px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .title {
+    font-size: 1.5rem;
+    color: #00a86b;
+    margin-bottom: 20px;
+  }
+  
+  .input {
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #00a86b;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
+  
+  .output {
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  .output span {
+    font-weight: bold;
+    color: #00a86b;
+  }
+  
